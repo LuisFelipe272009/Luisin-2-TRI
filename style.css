@@ -1,0 +1,14 @@
+header {
+    text-align: center;
+    background-color: rgb(140, 0, 255);
+    padding: 30px;
+}
+h1  {
+    font-size: 30px;
+    font-weight: bold;
+}
+main {
+    background-color: bisque;
+    text-align: center;
+    padding: ;
+}
