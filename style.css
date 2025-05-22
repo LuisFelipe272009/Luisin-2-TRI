@@ -10,5 +10,32 @@ h1  {
 main {
     background-color: bisque;
     text-align: center;
-    padding: ;
+    padding: 30px;
+}
+h2{
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+li{
+    margin: 10px auto;
+    padding: 10px;
+    background-color: black;
+    width: 30%;
+    border-radius: 10px;
+
+}
+li:hover{
+    width: 33px;
+    background-color: blue;
+}
+footer{ 
+    background-color: skyblue;
+    text-align: center;
+    padding: 20px;
 }
