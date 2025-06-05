@@ -10,5 +10,7 @@ resultado = num1 + num2;
 parouimpar = resultado % 2;
 
 if( parouimpar ==0) {
-    alert("O número" + resultado + "É par");
+    alert("O número " + resultado + " é par");
+} else {
+    alert("o numero " + resultado + "é impar");
 }
